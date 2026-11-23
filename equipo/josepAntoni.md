@@ -1,6 +1,7 @@
 # Josep Antoni
 
-## Rol: Desarrollador
+## Rol
+Desarrollador
 
 ## Tecnologias que conozco:
 - Java
