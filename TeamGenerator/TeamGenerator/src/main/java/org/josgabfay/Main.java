@@ -14,9 +14,7 @@ public class Main {
         miembros.add(new Miembro("Miembro 2", "Product Owner"));
         miembros.add(new Miembro("Miembro 3", "Developer"));
         miembros.add(new Miembro("Miembro 4", "Developer"));
-
-        Menu.mostrarMenu();
-
+        
     }
 
     public static void verMiembros() {
