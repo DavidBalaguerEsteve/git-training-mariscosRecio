@@ -8,10 +8,11 @@ public class Menu {
         int opcion;
 
         do {
-            System.out.println("==================");
-            System.out.println("  TEAM GENERATOR  ");
-            System.out.println("==================");
+            System.out.println("========================");
+            System.out.println("    TEAM GENERATOR     ");
+            System.out.println("========================");
             System.out.println("Equipo: Mariscos Recio");
+            System.out.println("------------------------");
             System.out.println();
             System.out.println("1. Ver miembros");
             System.out.println("2. Ver tecnologías");
